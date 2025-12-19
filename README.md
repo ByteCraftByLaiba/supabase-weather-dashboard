@@ -10,7 +10,7 @@
 A professional weather monitoring dashboard with real-time data visualization, volatility analysis, and secure backend powered by Supabase.
 
 ## ✨ Live Demo
-[🔗 Live Demo Link]() | [📹 Video Demo]()
+[🔗 Live Demo Link](https://supabase-weather-dashboard.vercel.app/)
 
 ## 🎯 Features
 
